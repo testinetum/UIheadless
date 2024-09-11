@@ -1,29 +1,29 @@
-2024-09-11 12:13:20 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
-2024-09-11 12:13:21 INFO  UIheadless.UIheadless - Navigated to the home page.
-2024-09-11 12:13:21 INFO  UIheadless.UIheadless - Page title is: The Internet
-2024-09-11 12:13:21 INFO  UIheadless.UIheadless - Page title matched expected value.
-2024-09-11 12:13:24 INFO  UIheadless.UIheadless - Browser closed.
-2024-09-11 12:13:28 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
-2024-09-11 12:13:29 INFO  UIheadless.UIheadless - Navigated to the login page.
-2024-09-11 12:13:29 INFO  UIheadless.UIheadless - Entered username and password and clicked login.
-2024-09-11 12:13:30 INFO  UIheadless.UIheadless - Flash message text: Your username is invalid!
+2024-09-11 14:32:39 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
+2024-09-11 14:32:41 INFO  UIheadless.UIheadless - Navigated to the home page.
+2024-09-11 14:32:41 INFO  UIheadless.UIheadless - Page title is: The Internet
+2024-09-11 14:32:41 INFO  UIheadless.UIheadless - Page title matched expected value.
+2024-09-11 14:32:41 INFO  UIheadless.UIheadless - Browser closed.
+2024-09-11 14:32:46 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
+2024-09-11 14:32:46 INFO  UIheadless.UIheadless - Navigated to the login page.
+2024-09-11 14:32:47 INFO  UIheadless.UIheadless - Entered username and password and clicked login.
+2024-09-11 14:32:47 INFO  UIheadless.UIheadless - Flash message text: Your username is invalid!
 ×
-2024-09-11 12:13:31 INFO  UIheadless.UIheadless - Browser closed.
-2024-09-11 12:13:35 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
-2024-09-11 12:13:36 INFO  UIheadless.UIheadless - Navigated to the login page.
-2024-09-11 12:13:36 INFO  UIheadless.UIheadless - Entered username and password and clicked login.
-2024-09-11 12:13:36 INFO  UIheadless.UIheadless - Flash message text: Your username is invalid!
+2024-09-11 14:32:47 INFO  UIheadless.UIheadless - Browser closed.
+2024-09-11 14:32:52 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
+2024-09-11 14:32:52 INFO  UIheadless.UIheadless - Navigated to the login page.
+2024-09-11 14:32:53 INFO  UIheadless.UIheadless - Entered username and password and clicked login.
+2024-09-11 14:32:53 INFO  UIheadless.UIheadless - Flash message text: Your username is invalid!
 ×
-2024-09-11 12:13:39 INFO  UIheadless.UIheadless - Browser closed.
-2024-09-11 12:13:43 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
-2024-09-11 12:13:44 INFO  UIheadless.UIheadless - Navigated to the login page.
-2024-09-11 12:13:44 INFO  UIheadless.UIheadless - Entered username and password and clicked login.
-2024-09-11 12:13:44 INFO  UIheadless.UIheadless - Logout link is visible, login was successful.
-2024-09-11 12:13:44 INFO  UIheadless.UIheadless - Flash message text: You logged into a secure area!
+2024-09-11 14:32:54 INFO  UIheadless.UIheadless - Browser closed.
+2024-09-11 14:32:58 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
+2024-09-11 14:32:58 INFO  UIheadless.UIheadless - Navigated to the login page.
+2024-09-11 14:32:59 INFO  UIheadless.UIheadless - Entered username and password and clicked login.
+2024-09-11 14:32:59 INFO  UIheadless.UIheadless - Logout link is visible, login was successful.
+2024-09-11 14:32:59 INFO  UIheadless.UIheadless - Flash message text: You logged into a secure area!
 ×
-2024-09-11 12:13:45 INFO  UIheadless.UIheadless - Browser closed.
-2024-09-11 12:13:49 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
-2024-09-11 12:13:50 INFO  UIheadless.UIheadless - Navigated to the dropdown page.
-2024-09-11 12:13:50 INFO  UIheadless.UIheadless - Selected option with value: 2
-2024-09-11 12:13:50 INFO  UIheadless.UIheadless - Selected option matches expected value: 2
-2024-09-11 12:13:51 INFO  UIheadless.UIheadless - Browser closed.
+2024-09-11 14:33:00 INFO  UIheadless.UIheadless - Browser closed.
+2024-09-11 14:33:04 INFO  UIheadless.UIheadless - Setup completed and navigated to the home page.
+2024-09-11 14:33:04 INFO  UIheadless.UIheadless - Navigated to the dropdown page.
+2024-09-11 14:33:04 INFO  UIheadless.UIheadless - Selected option with value: 2
+2024-09-11 14:33:04 INFO  UIheadless.UIheadless - Selected option matches expected value: 2
+2024-09-11 14:33:06 INFO  UIheadless.UIheadless - Browser closed.
